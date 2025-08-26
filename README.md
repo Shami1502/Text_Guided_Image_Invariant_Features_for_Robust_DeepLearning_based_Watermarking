@@ -4,6 +4,7 @@ Official implementation of our paper:
 
 **Text‑Guided Image Invariant Feature Learning for Robust Image Watermarking**  
 *Muhammad Ahtesham · Xin Zhong*
+https://arxiv.org/pdf/2503.13805
 
 ---
 
