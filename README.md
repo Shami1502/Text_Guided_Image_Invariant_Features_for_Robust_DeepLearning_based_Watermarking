@@ -57,11 +57,12 @@ Checkpoints will be saved to `clip_model_F/`.
 ## 📝 Citation
 If you use this repository, please cite:
 ```bibtex
-@article{ahtesham2025textguided,
+@inproceedings{ahtesham2025textguided,
   title={Text-Guided Image Invariant Feature Learning for Robust Image Watermarking},
   author={Muhammad Ahtesham and Xin Zhong},
-  journal={arXiv preprint arXiv:2503.13805},
-  year={2025}
+  booktitle={Proceedings of the IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR)},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
