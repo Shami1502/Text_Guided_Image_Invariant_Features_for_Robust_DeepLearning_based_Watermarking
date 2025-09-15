@@ -1,4 +1,4 @@
-# 🖼️ Text‑Guided Invariant Feature Learning for Robust Image Watermarking
+# 🖼️ Text‑Guided Image Invariant Feature Learning for Robust Image Watermarking
 
 Official implementation of our paper:
 
